@@ -28,13 +28,5 @@ flutter packages get  (----> in terminal) (if needed, normally flutter will get 
 
 ! A Future in Flutter is the equivalent of a Promise in JavaScript !
 
-<!-- NEW FB RULES:
-{
-  "rules": {
-    ".read": "auth != null",
-    ".write": "auth != null",
-    "products": {
-      ".indexOn": ["creatorId"]
-    }
-  }
-} -->
+flutter clean
+flutter build ios
