@@ -30,3 +30,5 @@ flutter packages get  (----> in terminal) (if needed, normally flutter will get 
 
 flutter clean
 flutter build ios
+
+flutter_config: ^1.0.7
