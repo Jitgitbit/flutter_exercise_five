@@ -32,3 +32,5 @@ flutter clean
 flutter build ios
 
 flutter_config: ^1.0.7
+
+Had to add geocodeing api
